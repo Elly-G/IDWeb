@@ -1,0 +1,12 @@
+4ee4b2eca2f977d66e4a92a713e7535932234a47 - BranchForC
+27d1ad0a165ec11333aede943e05778fe5bc9f88 - BranchForC#
+338df6abdeb8a2303b4129e6a37c6c60f1a160d0 - BranchForC++
+98351a99d778d8ba7bc266f8e61dfc5e7b3a9dbd - BranchForJava
+c79922f30dfb86794762b0b2b17fa14e716933fa - BranchForJavaScript
+b7b6a980ebcaa35a505e41ca968671639b925b12 - BranchForKotlin
+e892beea1a58901a3feb2ec829bff4774973c83b - BranchForPHP
+20428a5b5e0e204d239b1a6eb071f2f181e00f01 - BranchForPython
+cb4c637bf5ba12be7e7b5a7001288a582391694e - BranchForRuby
+ac3e14f3593899880d95385f1600e072f286e8fa - BranchForSwift
+bcb4e75b0e5d747a876002da4669fda5a343b19e - all
+ 
